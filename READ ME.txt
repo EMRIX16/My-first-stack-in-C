@@ -1,0 +1,2 @@
+to run this code use the following command
+            (gcc mainStack.c stack_ds.c)
